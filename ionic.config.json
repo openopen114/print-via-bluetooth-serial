@@ -1,0 +1,7 @@
+{
+  "name": "ble-print",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}

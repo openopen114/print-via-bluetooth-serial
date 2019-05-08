@@ -1,0 +1,34 @@
+{
+  "name": "cordova-plugin-bluetooth-zbtprinter",
+  "version": "1.4.0",
+  "description": "A Cordova/Phonegap driver for Zebra bluetooth printers",
+  "cordova": {
+    "id": "cordova-plugin-bluetooth-zbtprinter",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aximobile/cordova-plugin-bluetooth-zbtprinter.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "zebra-printer",
+    "Bluetooth",
+    "Zebra"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Wouter Van Huffel",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/aximobile/cordova-plugin-bluetooth-zbtprinter/issues"
+  },
+  "homepage": "https://github.com/aximobile/cordova-plugin-bluetooth-zbtprinter#readme"
+}
